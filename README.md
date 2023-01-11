@@ -1,4 +1,4 @@
-# food_predator
+# Food Predator
 
 A Snake Game built using Flutter
 
