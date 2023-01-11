@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "695207282746",
+    "project_id": "snakegame-eb13b",
+    "storage_bucket": "snakegame-eb13b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:695207282746:android:2d80346689b190bcd7cd03",
+        "android_client_info": {
+          "package_name": "com.mangisol.snakegame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "695207282746-eumbtqf75el9b33tv76ujneq9020i6ir.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDE9R1gnpKGhqncfUtPRD3tFAR6974s7E8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "695207282746-eumbtqf75el9b33tv76ujneq9020i6ir.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
